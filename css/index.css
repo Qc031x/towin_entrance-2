@@ -23,9 +23,9 @@
 	margin-left: 0.2rem;
 }
 .inter-btn{
-	width: 95%;
+	width: 90%;
 	margin: 0 auto;
-	margin-top: 2rem;
+	margin-top: 1rem;
 	margin-bottom: 1rem;
 }
 .inter-btn .btn{
@@ -60,7 +60,7 @@
 	margin-top: 0.5rem;
 }
 .hot-sell{
-	margin-top: 2rem;
+	margin-top: 1rem;
 	margin-bottom: 3rem;
 	
 }
@@ -93,11 +93,26 @@
 	margin-top: 0.5rem;
 }
 .footer{
-	margin-top: 1.5rem;
+	position: relative;
 	min-height: 6em;
+	background: #f7f7f7;
+	width: 100%;
+	max-width: 640px;
+	margin: 0 auto;
 }
 .footer p{
 	text-align: center;
 	color: #007dca;
 	font-size: 1.6rem;
+	margin-top: 1rem;
+	position: absolute;
+	width: 100%;
+}
+.footer p a:link{
+	color: #007dca;
+}
+.gary {
+	height: 0.5rem;
+	background: #f7f7f7;
+	width: 100%;
 }
